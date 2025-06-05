@@ -14,7 +14,7 @@ This folder contains a collection of videos showcasing each individual animation
 
 Additionally, there's a folder for OpenAI-related content, which includes an example of how animation choices were selected using OpenAI.
 
-All of these videos were part of the final user survey (with the exception of the idle body animation, since it was not included in the set of annotated animations)
+All of these videos were part of the final user survey (with the exception of the idle body animation, since it was not included in the set of annotated animations as well as the sad body animation since it was analysed as part of the facial expression)
 
 ## Survey
 
